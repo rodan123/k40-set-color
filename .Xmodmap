@@ -1,0 +1,21 @@
+!Corsair K40 Special Keys
+!MR off
+keycode  184 = NoSymbol NoSymbol NoSymbol
+!MR on
+keycode  186 = NoSymbol NoSymbol NoSymbol
+!M1
+keycode  166 = NoSymbol NoSymbol NoSymbol
+!M2
+keycode  167 = NoSymbol NoSymbol NoSymbol
+!M3
+keycode  136 = NoSymbol NoSymbol NoSymbol
+!Windows Lock on
+keycode  144 = NoSymbol NoSymbol NoSymbol
+!Windows Lock off
+keycode  185 = NoSymbol NoSymbol NoSymbol
+!Brightness off
+keycode  181 = NoSymbol NoSymbol NoSymbol
+!Brightness Lvl 1
+keycode  148 = NoSymbol NoSymbol NoSymbol
+!Brightness Lvl 2 and 3
+keycode  248 = NoSymbol NoSymbol NoSymbol
